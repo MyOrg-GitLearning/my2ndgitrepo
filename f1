@@ -1,3 +1,8 @@
 First file in my2ndgitrepo
 second line added
+<<<<<<< HEAD
 5th line added
+=======
+third line added
+4th line added
+>>>>>>> 86f0ef679aa5aa847c290eaf6a295a0dedd86aad
